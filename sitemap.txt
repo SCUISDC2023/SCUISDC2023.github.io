@@ -1,2 +1,2 @@
-https://github.com/SCUISDC2023/SCUISDC2023.github.io/2023/08/26/hello-world/
-https://github.com/SCUISDC2023/SCUISDC2023.github.io
+http://example.com/2023/08/26/hello-world/
+http://example.com/
