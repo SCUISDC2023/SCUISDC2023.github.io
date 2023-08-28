@@ -89,13 +89,16 @@
   max-width: 900px;
   margin: 200px auto;
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
+  align-items: center; /* 新增：水平居中 */
 }
 .about-photo {
-  width: 300px;
-  height: 450px;
+/* 移除原来的宽度和高度设置 */
+  width: 841px; /* 新增：设置图片宽度为841像素 */
+  height: 146px; /* 新增：设置图片高度为146像素 */
   background: url("") center center/cover no-repeat;
-  margin: 0;
+  margin: 0 10px;
   transition: all 200ms ease-out;
 }
 .about-photo:hover {
@@ -103,7 +106,7 @@
   transform: translateY(-4px);
 }
 .about-text {
-  margin: 20px 0;
+/* 移除 order 属性 */
   font-weight: bold;
   font-family: sourceHanSerif;
 }
@@ -424,7 +427,7 @@
   }
   .about {
     margin: 100px auto;
-    flex-direction: column;
+    flex-direction: column !important;
     justify-content: center;
     align-items: center;
   }
