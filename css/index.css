@@ -418,26 +418,6 @@
     animation: spark 1s ease infinite;
   }
 }
-@media screen and (max-width: 1023px) {
-  .wall {
-    height: calc(100vh - 60px);
-  }
-  .hello-world {
-    left: 20px;
-  }
-  .about {
-    margin: 100px auto;
-    flex-direction: column !important;
-    justify-content: center;
-    align-items: center;
-  }
-  .about-text {
-    margin-bottom: 50px;
-  }
-  .about-detail {
-    text-align: center;
-  }
-}
 @media screen and (max-width: 415px) {
   .timeline {
     margin: 200px auto;
@@ -474,6 +454,26 @@
   }
   .normal-eqt img {
     width: 200px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .wall {
+    height: calc(100vh - 60px);
+  }
+  .hello-world {
+    left: 20px;
+  }
+  .about {
+    margin: 100px auto;
+    flex-direction: column !important;
+    justify-content: center;
+    align-items: center;
+  }
+  .about-text {
+    margin-bottom: 50px;
+  }
+  .about-detail {
+    text-align: center;
   }
 }
 @-moz-keyframes spark {
