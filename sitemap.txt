@@ -1,4 +1,4 @@
-http://example.com/2023/08/28/hello-isdc/
-http://example.com/2023/08/26/hello-world/
-http://example.com/
-http://example.com/tags/test/
+https://scuisdc2023.cn/2023/08/28/hello-isdc/
+https://scuisdc2023.cn/2023/08/26/hello-world/
+https://scuisdc2023.cn/
+https://scuisdc2023.cn/tags/test/
