@@ -67,9 +67,9 @@
     <link href="https://scuisdc2023.cn/2023/08/28/hello-isdc/"/>
     <id>https://scuisdc2023.cn/2023/08/28/hello-isdc/</id>
     <published>2023-08-28T09:41:20.000Z</published>
-    <updated>2023-08-28T09:54:58.541Z</updated>
+    <updated>2023-08-28T11:46:30.084Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="HELLO-ISDC2023"><a href="#HELLO-ISDC2023" class="headerlink" title="HELLO ISDC2023!"></a>HELLO ISDC2023!</h1><p>欢迎大家来到ISDC！与我们一同学习网络安全技术！一起成长！🫡</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="HELLO-ISDC2023"><a href="#HELLO-ISDC2023" class="headerlink" title="HELLO ISDC2023!"></a>HELLO ISDC2023!</h1><p>欢迎大家来到ISDC！与我们一同学习网络安全技术！一起成长！🫡</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall hexo-generator-cname --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">四川大学信息安全与网络攻防协会，简称ISDC(Information Security and Network Attack and Defense Community)，隶属于四川大学软件学院，是软件学院最大的学术性社团。协会成立于2013年9月，现有指导老师2名，在编会员40名，会长1名，副会长3名。</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
