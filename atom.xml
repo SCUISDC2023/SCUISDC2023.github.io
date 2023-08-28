@@ -6,7 +6,7 @@
   <link href="https://scuisdc2023.cn/atom.xml" rel="self"/>
   
   <link href="https://scuisdc2023.cn/"/>
-  <updated>2023-08-28T10:06:51.919Z</updated>
+  <updated>2023-08-28T10:11:26.224Z</updated>
   <id>https://scuisdc2023.cn/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test2</title>
+    <link href="https://scuisdc2023.cn/2023/08/28/test2/"/>
+    <id>https://scuisdc2023.cn/2023/08/28/test2/</id>
+    <published>2023-08-28T10:11:26.000Z</published>
+    <updated>2023-08-28T10:11:26.224Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
