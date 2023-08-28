@@ -1,2 +1,4 @@
+http://example.com/2023/08/28/hello-isdc/
 http://example.com/2023/08/26/hello-world/
 http://example.com/
+http://example.com/tags/test/

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-26T14:43:27.007Z</updated>
+  <updated>2023-08-28T09:43:07.121Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello-isdc</title>
+    <link href="http://example.com/2023/08/28/hello-isdc/"/>
+    <id>http://example.com/2023/08/28/hello-isdc/</id>
+    <published>2023-08-28T09:41:20.000Z</published>
+    <updated>2023-08-28T09:43:07.121Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HELLO-ISDC2023"><a href="#HELLO-ISDC2023" class="headerlink" title="HELLO ISDC2023!"></a>HELLO ISDC2023!</h1><p>欢迎大家来到ISDC！与我们一同学习网络安全技术！一起成长！:smiley:</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;HELLO-ISDC2023&quot;&gt;&lt;a href=&quot;#HELLO-ISDC2023&quot; class=&quot;headerlink&quot; title=&quot;HELLO ISDC2023!&quot;&gt;&lt;/a&gt;HELLO ISDC2023!&lt;/h1&gt;&lt;p&gt;欢迎大家来到ISDC！与我们一同学习网络</summary>
+      
+    
+    
+    
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
