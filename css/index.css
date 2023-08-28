@@ -418,42 +418,48 @@
     animation: spark 1s ease infinite;
   }
 }
-@media screen and (max-width: 415px) {
-  .timeline {
-    margin: 200px auto;
+/* 添加媒体查询以适应手机屏幕 */
+@media screen and (max-width: 767px) {
+  .wall-title {
+    font-size: 36px;
+    margin-top: -10vh; /* 减少标题与顶部的间距 */
   }
-  .timeline-list .timeline-item {
-    flex-direction: column;
-    height: auto;
+  .wall-subtitle {
+    font-size: 24px;
   }
-  .timeline-list .line-date {
-    border-radius: 4px;
-    border: 2px solid #f5f5f5;
-  }
-  .timeline-list .line-title {
-    background: #fff;
-    border-radius: 4px;
-    border: 2px solid #f5f5f5;
-    padding: 4px;
-  }
-  .about-detail {
-    font-size: 18px;
+  .wall-description {
+    font-size: 16px;
+    margin: 5px 0;
   }
   .hello-world {
-    top: 15%;
+    top: 15%; /* 调整位置 */
   }
-  #heart-curve {
-    top: 60%;
-    right: 10%;
-    width: 300px;
+  .about {
+    margin: 100px auto;
   }
-  .normal-eqt {
-    bottom: 14%;
-    left: 40%;
-    top: auto;
+  .about-photo {
+    width: 100%; /* 图片宽度充满屏幕 */
+    height: auto; /* 根据宽度自动调整高度 */
+    margin: 0; /* 移除图片边距 */
   }
-  .normal-eqt img {
-    width: 200px;
+  .about-title {
+    font-size: 28px; /* 调整标题大小 */
+    margin: 20px 0;
+  }
+  .about-detail {
+    font-size: 18px; /* 调整详细信息文字大小 */
+    line-height: 1.5em;
+    letter-spacing: 0.1em;
+  }
+  .timeline {
+    margin: 100px auto; /* 调整时间轴的上边距 */
+  }
+  .timeline-item {
+    font-size: 16px; /* 调整时间轴项目的文字大小 */
+    padding: 10px 0; /* 调整项目间距 */
+  }
+  .line-title .text-icon {
+    margin: 0 4px; /* 调整文本图标间距 */
   }
 }
 @media screen and (max-width: 1023px) {
