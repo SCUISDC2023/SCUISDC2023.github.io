@@ -421,7 +421,7 @@
 /* 添加媒体查询以适应手机屏幕 */
 @media screen and (max-width: 767px) {
   .wall-title {
-    font-size: 36px;
+    font-size: 28px;
     margin-top: -10vh; /* 减少标题与顶部的间距 */
   }
   .wall-subtitle {
@@ -441,6 +441,7 @@
     width: 100%; /* 图片宽度充满屏幕 */
     height: auto; /* 根据宽度自动调整高度 */
     margin: 0; /* 移除图片边距 */
+    object-fit: cover; /* 剪裁并填充容器 */
   }
   .about-title {
     font-size: 28px; /* 调整标题大小 */
