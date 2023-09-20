@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://scuisdc2023.cn/2023/09/20/ISDC2023%E7%A4%BE%E5%9B%A2%E5%9C%A8%E7%BC%96%E6%88%90%E5%91%98/</loc>
+    
+    <lastmod>2023-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://scuisdc2023.cn/2023/09/02/ISDC2023%E5%B9%B4%E6%8B%9B%E6%96%B0/</loc>
+    
+    <lastmod>2023-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://scuisdc2023.cn/2023/09/02/ISDC%E7%A4%BE%E5%9B%A2%E7%AE%80%E4%BB%8B/</loc>
     
     <lastmod>2023-09-02</lastmod>
@@ -22,11 +40,18 @@
 
   <url>
     <loc>https://scuisdc2023.cn/</loc>
-    <lastmod>2023-09-02</lastmod>
+    <lastmod>2023-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://scuisdc2023.cn/tags/article/</loc>
+    <lastmod>2023-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
