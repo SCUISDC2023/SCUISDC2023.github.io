@@ -28,7 +28,7 @@
 }
 .wall-title {
   font-weight: 600;
-  font-size: 72px;
+  font-size: 80px;
   animation: flyIn 500ms ease-out;
 }
 .wall-subtitle {
@@ -421,7 +421,7 @@
 /* 添加媒体查询以适应手机屏幕 */
 @media screen and (max-width: 767px) {
   .wall-title {
-    font-size: 28px;
+    font-size: 30px;
     margin-top: -10vh; /* 减少标题与顶部的间距 */
   }
   .wall-subtitle {
